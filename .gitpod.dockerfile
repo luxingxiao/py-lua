@@ -9,7 +9,7 @@ RUN sudo apt-get update \
     bear \
     manpages-posix-dev \
     manpages-dev \
-    python-pygments \
+    python3-pygments \
     gcc \
     tar \
     make \
